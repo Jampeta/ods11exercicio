@@ -1,0 +1,9 @@
+2024-02-06 12:33:07.876 [info] Log level: Info
+2024-02-06 12:33:07.876 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2024-02-06 12:33:07.876 [info] Validating found git in: "C:\Program Files (x86)\Git\cmd\git.exe"
+2024-02-06 12:33:07.876 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2024-02-06 12:33:07.876 [info] Validating found git in: "C:\Users\joaopedro-ieg\AppData\Local\Programs\Git\cmd\git.exe"
+2024-02-06 12:33:07.876 [info] Using git "2.43.0.windows.1" from "C:\Users\joaopedro-ieg\AppData\Local\Programs\Git\cmd\git.exe"
+2024-02-06 12:33:07.876 [info] > git rev-parse --show-toplevel [1061ms]
+2024-02-06 12:33:08.271 [info] > git rev-parse --show-toplevel [380ms]
+2024-02-06 12:33:09.359 [info] > git rev-parse --show-toplevel [1050ms]

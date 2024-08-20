@@ -1,0 +1,104 @@
+// tQtPYzJXnVa9SzjE0kXvU4xD/vLOQ3hg9wx9hzaCwIr7vvWyxsfKcoeBDzRhH32rMbTc8JdyS136pCaw/VzcEkpqwBXdOAhorEbiIX/gdISGtTN+l0c0xcOi4TVRtVh9eZ0PXwx9DhHn9UNOg9blF6mFcTxEWtnio8SP17o7RjmUzXyw7Vgxkq05I6iDTeLJYSIa9Ioe5a78EoKeWmPNX6Q/1/5Ga55FcZ+O44k9Fvbneuw1z17PhBMhe7zD+4dW6t38GaYX4wFVaVuiI34KLCjpUi6X+nsjkYjbhxuLAHVZyMZhYjgin24+CN/nRM8ohfN2U7ZCthbfHT71KSQI2g==
+{
+  "version": 2023102301,
+  "tests": [
+    {
+      "name": "DNA-93212-ru",
+      "total_test_percentage": 20,
+      "country": "ru",
+      "test_state": 1,
+      "test_groups" : [
+        {
+          "name": "DNA-93212-test-ru",
+          "preferences": {
+            "gx.show-yandex-in-mid-profile" : true
+          }
+        },
+        {
+          "name": "DNA-93212-ref-ru",
+          "preferences": {
+            "gx.show-yandex-in-mid-profile" : false
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-99214_GXCTest10",
+      "total_test_percentage": 10,
+      "test_state": 1,
+      "test_groups" : [
+        {
+          "name": "GXCTest10-test",
+          "preferences": {
+            "gxcorner.abtest10" : true
+          }
+        },
+        {
+          "name": "GXCTest10-ref",
+          "preferences": {
+            "gxcorner.abtest10" : false
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-99214_GXCTest25",
+      "total_test_percentage": 25,
+      "test_state": 1,
+      "test_groups" : [
+        {
+          "name": "GXCTest25-test",
+          "preferences": {
+            "gxcorner.abtest25" : true
+          }
+        },
+        {
+          "name": "GXCTest25-ref",
+          "preferences": {
+            "gxcorner.abtest25" : false
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-99214_GXCTest50",
+      "total_test_percentage": 50,
+      "test_state": 1,
+      "test_groups" : [
+        {
+          "name": "GXCTest50-test",
+          "preferences": {
+            "gxcorner.abtest50" : true
+          }
+        },
+        {
+          "name": "GXCTest50-ref",
+          "preferences": {
+            "gxcorner.abtest50" : false
+          }
+        }
+      ]
+    },
+    {
+      "name": "DNA-112027",
+      "total_test_percentage": 10,
+      "test_state": 1,
+      "test_groups": [
+        {
+          "name": "DNA-112027-gx-mission-widget-on",
+          "features": {
+            "gx-widgets-mission": true
+          },
+          "preferences": {}
+        },
+        {
+          "name": "DNA-112027-gx-mission-widget-off",
+          "features": {
+            "gx-widgets-mission": false
+          },
+          "preferences": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+2024-02-01 10:31:16.408 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:45:4959)
+    at E.t (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:44:251)
+    at E.q (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:43:4371)
+    at w.value (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:43:3602)
+    at d.y (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:38:1902)
+    at d.z (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:38:1972)
+    at d.fire (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-01 10:31:25.200 [info] Getting Manifest... ms-toolsai.jupyter
+2024-02-01 10:31:25.203 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2024-02-01 10:31:25.292 [info] Installing extension: ms-toolsai.jupyter
+2024-02-01 10:31:25.401 [info] Installing extension: ms-vscode-remote.remote-wsl
+2024-02-01 10:31:28.491 [info] Extension signature is verified: ms-vscode-remote.remote-wsl
+2024-02-01 10:31:29.183 [info] Extension signature is verified: ms-toolsai.jupyter
+2024-02-01 10:31:29.750 [info] Extracted extension to file:///c%3A/Users/joaopedro-ieg/.vscode/extensions/ms-vscode-remote.remote-wsl-0.86.0: ms-vscode-remote.remote-wsl
+2024-02-01 10:31:29.776 [info] Renamed to c:\Users\joaopedro-ieg\.vscode\extensions\ms-vscode-remote.remote-wsl-0.86.0
+2024-02-01 10:31:29.807 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2024-02-01 10:31:29.919 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2024-02-01 10:31:29.935 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat 'c:\Users\joaopedro-ieg\.vscode\extensions\extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat 'c:\Users\joaopedro-ieg\.vscode\extensions\extensions.json.vsctmp'
+    at r.create (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:51:30119)
+    at a (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:51:30234)
+    at i.fb (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:56:36631)
+    at i.stat (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:56:29077)
+    at async v.stat (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:56:16223)
+    at async Y.tb (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:102:108626)
+2024-02-01 10:31:29.952 [info] Marked extension as uninstalled ms-vscode-remote.remote-wsl-0.81.9
+2024-02-01 10:31:31.221 [info] Extracted extension to file:///c%3A/Users/joaopedro-ieg/.vscode/extensions/ms-toolsai.jupyter-2024.1.0-win32-x64: ms-toolsai.jupyter
+2024-02-01 10:31:31.275 [info] Renamed to c:\Users\joaopedro-ieg\.vscode\extensions\ms-toolsai.jupyter-2024.1.0-win32-x64
+2024-02-01 10:31:31.334 [info] Extracting extension completed. ms-toolsai.jupyter
+2024-02-01 10:31:31.432 [info] Extension installed successfully: ms-toolsai.jupyter
+2024-02-01 10:31:31.438 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat 'c:\Users\joaopedro-ieg\.vscode\extensions\extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat 'c:\Users\joaopedro-ieg\.vscode\extensions\extensions.json.vsctmp'
+    at r.create (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:51:30119)
+    at a (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:51:30234)
+    at i.fb (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:56:36631)
+    at i.stat (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:56:29077)
+    at async v.stat (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:56:16223)
+    at async Y.tb (c:\Users\joaopedro-ieg\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\node\sharedProcess\sharedProcessMain.js:102:108626)
+2024-02-01 10:31:31.465 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.11.1100101639-win32-x64

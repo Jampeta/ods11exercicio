@@ -1,0 +1,18 @@
+2024-02-01 10:31:30.090 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-01 10:31:30.090 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-01 10:31:30.090 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-01 10:31:30.091 [info] Experiment 'pythonTestAdapter' is active
+2024-02-01 10:31:30.091 [info] Default formatter is set to null for workspace c:\Users\joaopedro-ieg\OneDrive - Instituto Germinare\Escola\2° Tech\Estatistica
+2024-02-01 10:31:30.091 [info] Test server listening.
+2024-02-01 10:31:30.091 [info] Python interpreter path: C:\Program Files\Python311\python.exe
+2024-02-01 10:31:30.128 [info] Send text to terminal: echo C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+2024-02-01 10:31:31.845 [info] > conda info --json
+2024-02-01 10:31:33.126 [info] Shell integration is not working for powershell
+2024-02-01 10:31:33.129 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2024-02-01 10:31:34.853 [info] Starting Pylance language server.
+2024-02-01 10:31:41.785 [info] > C:\ProgramData\anaconda3\Scripts\conda.exe info --json
+2024-02-01 10:31:54.249 [info] > C:\ProgramData\anaconda3\condabin\conda.bat info --json
+2024-02-01 10:32:01.986 [info] > C:\ProgramData\anaconda3\Scripts\conda.exe run -n base --no-capture-output python ~\.vscode\extensions\ms-python.python-2023.22.1\pythonFiles\get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2024-02-01 10:32:01.987 [info] shell: commandPrompt
+2024-02-01 10:32:01.987 [info] > C:\ProgramData\anaconda3\Scripts\conda.exe run -n base --no-capture-output python ~\.vscode\extensions\ms-python.python-2023.22.1\pythonFiles\get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/printEnvVariables.py
+2024-02-01 10:32:01.987 [info] shell: commandPrompt

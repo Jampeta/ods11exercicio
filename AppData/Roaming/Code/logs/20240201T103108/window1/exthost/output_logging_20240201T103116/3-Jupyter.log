@@ -1,0 +1,25 @@
+Visual Studio Code (1.86.0, undefined, desktop)
+Jupyter Extension Version: 2023.11.1100101639.
+Python Extension Version: 2023.22.1.
+Pylance Extension Version: 2023.12.1.
+Platform: win32 (x64).
+Workspace folder ~\OneDrive - Instituto Germinare\Escola\2° Tech\Estatistica, Home = c:\Users\joaopedro-ieg
+10:31:21.621 [info] Start refreshing Kernel Picker (1706794281620)
+10:31:21.634 [info] Using Pylance
+10:31:30.387 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd03c06e3e46abf38078fe4dac36a0085ec2b134ebbd73dd076183d243eeca6918f.c:\ProgramData\anaconda3\python.exe.c:\ProgramData\anaconda3\python.exe.-m#ipykernel_launcher  (Python Path: c:\ProgramData\anaconda3\python.exe, Conda, base, 3.11.4) for '~\OneDrive - Instituto Germinare\Escola\2° Tech\Estatistica\aula2.ipynb' (disableUI=true)
+10:31:32.116 [info] End refreshing Kernel Picker (1706794281620)
+10:31:32.940 [warn] Failed to get activated env vars for c:\Program Files\Python311\python.exe in 5107ms
+10:31:32.999 [info] Process Execution: c:\Program Files\Python311\python.exe -c "import site;print("USER_BASE_VALUE");print(site.USER_SITE);print("USER_BASE_VALUE");"
+10:31:33.438 [info] Process Execution: c:\Program Files\Python311\python.exe -m pip list
+10:32:09.257 [info] Process Execution: c:\ProgramData\anaconda3\python.exe -m pip list
+10:32:09.308 [info] Process Execution: c:\ProgramData\anaconda3\python.exe -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:32:09.352 [info] Process Execution: c:\ProgramData\anaconda3\python.exe ~\.vscode\extensions\ms-toolsai.jupyter-2023.11.1100101639-win32-x64\pythonFiles\vscode_datascience_helpers\kernel_interrupt_daemon.py --ppid 13240
+    > cwd: ~\.vscode\extensions\ms-toolsai.jupyter-2023.11.1100101639-win32-x64\pythonFiles\vscode_datascience_helpers
+10:32:09.772 [info] Process Execution: c:\ProgramData\anaconda3\python.exe -m ipykernel_launcher --f=~\AppData\Roaming\jupyter\runtime\kernel-v2-13240X0KQvp6EDFQg.json
+    > cwd: ~\OneDrive - Instituto Germinare\Escola\2° Tech\Estatistica
+10:32:13.867 [warn] StdErr from Kernel Process 0.01s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10:32:15.085 [info] Process Execution: c:\ProgramData\anaconda3\python.exe ~\.vscode\extensions\ms-toolsai.jupyter-2023.11.1100101639-win32-x64\pythonFiles\printJupyterDataDir.py
+10:32:15.305 [warn] Got a non-existent Jupyer Data Dir file:///c%3A/Users/<username>/AppData/Roaming/Python/share/jupyter

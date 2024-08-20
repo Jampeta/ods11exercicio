@@ -1,0 +1,11 @@
+02/01/2024 09:35:55  Activity ID: f08ea0dc-a1c0-42ea-a9b0-c4114055341b
+02/01/2024 09:35:55  Starting background task AppEnumerationBackgroundTask
+02/01/2024 09:35:55  App Version: 1.2309.12711.0
+02/01/2024 09:35:55  Starting the app enumeration in a background task
+02/01/2024 09:35:55  GetPublicModernApps.Start[307]
+02/01/2024 09:35:55  GetPublicModernApps.Stop[4012]
+02/01/2024 09:35:55  App enumeration complete, saving contents to disk. Modern[54] Inventory[92] Broker[102]
+02/01/2024 09:35:55  Saving app inventory to file
+02/01/2024 09:35:55  App inventory file already exists, creating temp file: 2a25b32a-ae34-40c3-b3f6-746d7eb3ed2f.json
+02/01/2024 09:35:55  Swaping existing file with temp file: 2a25b32a-ae34-40c3-b3f6-746d7eb3ed2f.json
+02/01/2024 09:35:55  Successfully saved the app inventory to file
